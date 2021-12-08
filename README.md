@@ -12,7 +12,7 @@ cv2
 ## Usage
 * Clone this repo into your workstation 
 git clone https://github.com/NuaaYH/MSCNet.git
-* Code can be download from BaiduYun: https://pan.baidu.com/s/1oDOsPZkRisCBzAtoY6SDMA  (code:hl0s)  
+* The datasets used in this paper can be download from BaiduYun: https://pan.baidu.com/s/1oDOsPZkRisCBzAtoY6SDMA  (code:hl0s)  
   Set the project format as follows:  
   ./MSCNet  
   ./Dataset  
