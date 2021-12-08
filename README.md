@@ -13,3 +13,9 @@ cv2
 * Clone this repo into your workstation 
 git clone https://github.com/NuaaYH/MSCNet.git
 * Set your dataset format as follows:
+
+## Results
+* The results of ours and the comparison methods in our paper can be download from BaiduYun:
+https://pan.baidu.com/s/1Vl7maJjQiQVS8VG77t5lLw  (code:arjc)
+* The pre-trained model can be download from BaiduYun:
+https://pan.baidu.com/s/1AcQJjKdsk3SWPr2O6i-c0A  (code:fkci)
