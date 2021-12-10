@@ -11,12 +11,21 @@ cv2
 
 ## Usage
 * Clone this repo into your workstation 
-git clone https://github.com/NuaaYH/MSCNet.git
+  git clone https://github.com/NuaaYH/MSCNet.git
 * The datasets used in this paper can be download from BaiduYun: https://pan.baidu.com/s/1oDOsPZkRisCBzAtoY6SDMA  (code:hl0s)  
-  Set the project format as follows:  
+* Set the project format as follows:  
   ./MSCNet  
   ./Dataset  
-## training
+* Create the folders in MSCNet as shown below:  
+  ./Outputs/pred/MSCNet/EORSSD(or ORSSD)/Test  
+  ./Checkpoints/trained
+
+## training  
+1.Comment out line 57 of run.py like #self.net.load_state_dict......  
+2.Comment out line 173 of run.py like #run.test() and ensure that the run.train() statement is executable  
+3.python run.py
+
+## testing
 
 ## Results
 * The results of ours and the comparison methods in our paper can be download from BaiduYun:  
