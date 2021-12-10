@@ -21,14 +21,14 @@ cv2
   ./Checkpoints/trained
 
 ## training  
-1.Comment out line 57 of run.py like #self.net.load_state_dict......  
-2.Comment out line 173 of run.py like #run.test() and ensure that the run.train() statement is executable  
-3.python run.py
+1. Comment out line 57 of run.py like #self.net.load_state_dict......  
+2. Comment out line 173 of run.py like #run.test() and ensure that the run.train() statement is executable  
+3. python run.py
 
 ## testing
-1.Put the model weights in ./Checkpoints/trained and ensure that line 57 of run.py is executable  
-2.Comment out line 172 of run.py like #run.train() and ensure that the run.test() statement is executable   
-3.python run.py
+1. Put the model weights in ./Checkpoints/trained and ensure that line 57 of run.py is executable  
+2. Comment out line 172 of run.py like #run.train() and ensure that the run.test() statement is executable   
+3. python run.py
 
 ## Results
 * The results of ours and the comparison methods in our paper can be download from BaiduYun:  
