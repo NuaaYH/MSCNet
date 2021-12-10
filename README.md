@@ -1,5 +1,5 @@
 # MSCNet: A lightweight multi-scale context network for Salient Object Detection in Optical Remote Sensing Images
-Code for paper "A lightweight multi-scale context network for Salient Object Detection in Optical Remote Sensing Images", by Yuhan Lin and Han Sun.
+Code for paper "A lightweight multi-scale context network for Salient Object Detection in Optical Remote Sensing Images", by Yuhan Lin, Han Sun, Ningzhong Liu, Yetong Bian, Jun Cen, and Huiyu Zhou
 
 ## Requirement
 python-3.6  
