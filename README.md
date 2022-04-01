@@ -30,6 +30,9 @@ cv2
 2. Comment out line 172 of run.py like #run.train() and ensure that the run.test() statement is executable   
 3. python run.py
 
+## evaluation
+The evaluation code can be available at https://github.com/zyjwuyan/SOD_Evaluation_Metrics.
+
 ## Results
 * The results of ours and the comparison methods in our paper can be download from BaiduYun:  
 https://pan.baidu.com/s/1Vl7maJjQiQVS8VG77t5lLw  (code:arjc)
